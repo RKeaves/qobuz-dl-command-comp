@@ -41,11 +41,6 @@ _A Tampermonkey/Greasemonkey userscript to build and manage batch download comma
 
 ## Installation
 
-1. Visit the [Releases page](https://github.com/rkeaves/qobuz-dl-command-comp) and click **Install**.  
-2. Confirm installation in your userscript manager.
-
-**Manual Installation:**
-
 ```text
 https://github.com/rkeaves/qobuz-dl-command-comp/raw/main/qobuz-dl-command-comp.js
 ```
